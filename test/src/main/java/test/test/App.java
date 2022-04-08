@@ -11,12 +11,7 @@ public class App {
         //test commit to master
         //final to branch
         //final test again1
-<<<<<<< HEAD
-        //final test to commit to branch only
-      //final test to commit to branch only
-        // branch 1 commit
-=======
         //test123 branch3
->>>>>>> refs/remotes/origin/master
+        // branch 1 commit
     }
 }
